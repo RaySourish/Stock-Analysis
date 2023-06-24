@@ -1,2 +1,2 @@
 # Stock-Analysis
-Project about analysis of a stock and then predicting it using ARIMA and RNN LSTM MODELS
+ Code and resources for analyzing and backtesting Indian F&O stocks using technical indicators, momentum strategy, stop loss mechanism, rebalancing, and Pyfolio integration.
